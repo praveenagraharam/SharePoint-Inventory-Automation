@@ -17,8 +17,8 @@ Configure repository paths or SharePoint endpoints
 Run the script with required parameters  
 Review generated filetype distribution reports  
 Use insights for compliance, migration, or optimisation activities  
-## Global Talent Alignment
-This project demonstrates innovation in enterprise automation and technical leadership in developing scalable solutions for SharePoint inventory management. By publishing this work, I contribute to the broader digital technology community and highlight impact aligned with the Global Talent criteria for innovation, leadership, and sector contribution
+## Automation Alignment
+This project demonstrates innovation in enterprise automation and technical leadership in developing scalable solutions for SharePoint inventory management. By publishing this work, I contribute to the broader digital technology community and highlight impact aligned with the innovation criteria, leadership, and sector contribution
 ## Future Enhancements
 Integration with Azure storage analytics  
 Support for multi-tenant SharePoint environments  
