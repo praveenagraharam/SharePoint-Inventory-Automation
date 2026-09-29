@@ -1,7 +1,7 @@
 # PowerShell | SharePoint Online | Inventory | Reporting | Governance | Microsoft 365
 This repository provides a robust automation solution that scans large SharePoint and organisational repositories to produce precise filetype distribution insights. It replaces manual auditing with a scalable, repeatable workflow that reduces operational effort and supports compliance, migration planning, and storage optimisation. 
 ## Sample Execution Output
-Output.png
+<img width="1707" height="921" alt="Output" src="https://github.com/user-attachments/assets/74e88706-59f3-4030-807e-cb9a2cc9479f" />
 ## Key Features
 Automated filetype analysis across SharePoint repositories  
 High-speed scanning for large datasets  
