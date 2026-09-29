@@ -1,5 +1,5 @@
 # ============================
-# SharePoint File Type Summary Script (Hybrid: App-Only Cert + Interactive)
+# SharePointFileTypeSummary Script 
 # Author: Praveen Agraharam Ramakrishnan
 # ============================
  
