@@ -1,5 +1,5 @@
 # ============================
-# SharePointFileTypeSummary Script 
+# SharePointFileTypeSummary
 # Author: Praveen Agraharam Ramakrishnan
 # ============================
  
