@@ -37,10 +37,16 @@ Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force
 - SharePoint REST / Graph API  
 - CSV/JSON reporting modules  
 ## Getting Started
-- Configure repository paths or SharePoint endpoints  
-- Run the script with required parameters  
-- Review generated filetype distribution reports  
-- Use insights for compliance, migration, or optimisation activities  
+
+1. Clone the repository.
+2. Update the SharePoint admin URL and output path at the top of the script.
+3. Run the script:
+
+```powershell
+.\SharePoint-FileType-Summary.ps1
+```
+
+4. Review the generated CSV report.
 ## Automation Alignment
 This project demonstrates innovation in enterprise automation and technical leadership in developing scalable solutions for SharePoint inventory management. By publishing this work, I contribute to the broader digital technology community and highlight impact aligned with the innovation criteria, leadership, and sector contribution
 ## Future Enhancements
