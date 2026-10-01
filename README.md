@@ -11,6 +11,27 @@ Supports migration planning and storage optimisation
 Reduces manual workload and operational risk  
 ## Enterprise Impact
 Successfully deployed in enterprise environments to resolve complex inventory challenges and enable data-driven decisions. The script improves audit accuracy, reduces manual effort, and enhances operational efficiency.
+## Prerequisites
+
+### Software
+- Windows PowerShell 5.1 or PowerShell 7.4+
+- PnP.PowerShell module
+
+```powershell
+Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force
+```
+
+### Permissions
+- SharePoint Administrator or Global Administrator role (to enumerate all site collections)
+- Alternatively, Site Collection Administrator or Read access on each site to be scanned
+- SharePoint Admin Center URL, for example `https://<tenant>-admin.sharepoint.com`
+
+### Authentication
+- Interactive sign-in (MFA supported) or an Entra ID app registration with `Sites.Read.All`
+
+### Environment
+- Network access to `*.sharepoint.com` and `login.microsoftonline.com`
+- A local folder with write access for the exported CSV report
 ## Technologies Used
 PowerShell / PnP.PowerShell  
 SharePoint REST / Graph API  
