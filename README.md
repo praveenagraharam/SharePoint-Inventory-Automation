@@ -14,8 +14,7 @@ This repository provides a robust automation solution that scans large SharePoin
 - PowerShell / PnP.PowerShell  
 - SharePoint REST / Graph API  
 - CSV/JSON reporting modules  
-## Enterprise Impact
-Successfully deployed in enterprise environments to resolve complex inventory challenges and enable data-driven decisions. The script improves audit accuracy, reduces manual effort, and enhances operational efficiency.
+
 ## Prerequisites
 
 ### Software
@@ -49,6 +48,8 @@ Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force
 ```
 
 4. Review the generated CSV report.
+## Enterprise Impact
+Successfully deployed in enterprise environments to resolve complex inventory challenges and enable data-driven decisions. The script improves audit accuracy, reduces manual effort, and enhances operational efficiency.
 ## Automation Alignment
 This project demonstrates innovation in enterprise automation and technical leadership in developing scalable solutions for SharePoint inventory management. By publishing this work, I contribute to the broader digital technology community and highlight impact aligned with the innovation criteria, leadership, and sector contribution
 ## Future Enhancements
