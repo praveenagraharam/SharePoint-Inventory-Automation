@@ -34,7 +34,7 @@ Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force
 - Interactive sign-in (MFA supported) or an Entra ID app registration with `Sites.Read.All`
 ### API Access
 - **SharePoint REST API**: accessed through PnP.PowerShell using your signed-in account, so no extra setup is needed beyond the SharePoint permissions listed above.
-- **Microsoft Graph API** (only if the script calls Graph): an Entra ID app registration with these permissions, with admin consent granted:
+- **Microsoft Graph API**: an Entra ID app registration with these permissions, with admin consent granted:
   - `Sites.Read.All` (read site and library metadata)
   - `Files.Read.All` (read file names and types)
 - Tenant admin approval to grant the above consent
