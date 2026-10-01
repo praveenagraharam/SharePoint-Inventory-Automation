@@ -43,7 +43,7 @@ Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force
 3. Run the script:
 
 ```powershell
-.\SharePoint-FileType-Summary.ps1
+.\SharePointFileTypeSummary.ps1
 ```
 
 4. Review the generated CSV report.
