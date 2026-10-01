@@ -8,7 +8,12 @@ This repository provides a robust automation solution that scans large SharePoin
 - High-speed scanning for large datasets  
 - Detailed filetype distribution reports for compliance and governance  
 - Supports migration planning and storage optimisation  
-- Reduces manual workload and operational risk  
+- Reduces manual workload and operational risk
+
+## Technologies Used
+- PowerShell / PnP.PowerShell  
+- SharePoint REST / Graph API  
+- CSV/JSON reporting modules  
 ## Enterprise Impact
 Successfully deployed in enterprise environments to resolve complex inventory challenges and enable data-driven decisions. The script improves audit accuracy, reduces manual effort, and enhances operational efficiency.
 ## Prerequisites
@@ -32,10 +37,7 @@ Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force
 ### Environment
 - Network access to `*.sharepoint.com` and `login.microsoftonline.com`
 - A local folder with write access for the exported CSV report
-## Technologies Used
-- PowerShell / PnP.PowerShell  
-- SharePoint REST / Graph API  
-- CSV/JSON reporting modules  
+
 ## Getting Started
 
 1. Clone the repository.
