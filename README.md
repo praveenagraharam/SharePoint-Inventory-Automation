@@ -36,7 +36,7 @@ Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force
 - PowerShell / PnP.PowerShell  
 - SharePoint REST / Graph API  
 - CSV/JSON reporting modules  
-## Usage
+## Getting Started
 - Configure repository paths or SharePoint endpoints  
 - Run the script with required parameters  
 - Review generated filetype distribution reports  
