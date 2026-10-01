@@ -41,7 +41,7 @@ Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force
 
 1. Clone the repository.
 2. Update the SharePoint admin URL and output path at the top of the script.
-3. Run the script:
+3. Run the script,
 
 ```powershell
 .\SharePointFileTypeSummary.ps1
